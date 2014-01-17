@@ -52,4 +52,3 @@ MIT: [http://rem.mit-license.org](http://rem.mit-license.org)
 ![](http://git.oschina.net/jimneylee/JLOSChina-iPhone/raw/master/Resource/Screenshots/0116_7.png)
 ![](http://git.oschina.net/jimneylee/JLOSChina-iPhone/raw/master/Resource/Screenshots/0116_8.png)
 ![](http://git.oschina.net/jimneylee/JLOSChina-iPhone/raw/master/Resource/Screenshots/0116_9.png)
-
